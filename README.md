@@ -6,6 +6,10 @@
 
 ## Results
 
+### Installing HyPhy
+
+### Methods
+
 We have tested the following methods: `MEME+MH`
 
 ## References
